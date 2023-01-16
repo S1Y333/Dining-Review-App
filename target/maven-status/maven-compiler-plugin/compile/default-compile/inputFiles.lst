@@ -1,0 +1,13 @@
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/controller/UserController.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/repository/ReviewRepository.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/model/Restaurant.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/DiningReviewsApplication.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/repository/UserRepository.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/controller/AdminController.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/model/Review.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/repository/RestaurantRepository.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/controller/RestaurantController.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/controller/ReviewController.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/model/User.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/model/ReviewStatus.java
+/Users/siyizhang/Downloads/diningreviews-2/src/main/java/com/codecademy/diningreviews/model/AdminReviewAction.java

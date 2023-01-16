@@ -1,0 +1,13 @@
+com/codecademy/diningreviews/repository/ReviewRepository.class
+com/codecademy/diningreviews/model/Restaurant.class
+com/codecademy/diningreviews/controller/ReviewController.class
+com/codecademy/diningreviews/DiningReviewsApplication.class
+com/codecademy/diningreviews/repository/UserRepository.class
+com/codecademy/diningreviews/model/User.class
+com/codecademy/diningreviews/controller/RestaurantController.class
+com/codecademy/diningreviews/model/ReviewStatus.class
+com/codecademy/diningreviews/controller/UserController.class
+com/codecademy/diningreviews/model/Review.class
+com/codecademy/diningreviews/repository/RestaurantRepository.class
+com/codecademy/diningreviews/controller/AdminController.class
+com/codecademy/diningreviews/model/AdminReviewAction.class
